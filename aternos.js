@@ -70,7 +70,7 @@ function bindEvents(bot) {
         console.log("Bot sunucudan atıldı!");
         setTimeout(relog, 5000);  
     });
-
+//techno
     function relog() {
         console.log("Sunucuya Tekrardan Baglaniliyor...");
         bot = mineflayer.createBot(ayar);
