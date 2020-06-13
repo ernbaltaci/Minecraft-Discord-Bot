@@ -31,7 +31,7 @@ setInterval(() => {//techno
 }, 280000);//techno
 
 client.on('ready', async () => {//techno
-  var url = `https://technoapi.glitch.me/api/${apikey}/mcsunucu/${ip}`;//techno
+  var url = `https://mcapi.xdefcon.com/server/${ip}/full/json`;//techno
    request(url, function (err, response, body) {//techno
     body = JSON.parse(body);//techno
    client.appInfo = client.fetchApplication();//techno
@@ -60,7 +60,7 @@ client.elevation = message => {//techno
 const log = message => {//techno
   console.log(`[${moment().format('YYYY-MM-DD HH:mm:ss')}] ${message}`);//techno
 };//techno
-var tch = `https://www.technoapi.tk/api/${apikey}/mcsunucu/${ip}`;//techno
+var tch = `https://mcapi.xdefcon.com/server/${ip}/full/json`;//techno
    request(tch, function (err, response, body) {//techno
     body = JSON.parse(body);//techno
 client.on("message", async message => {  //techno
@@ -80,7 +80,7 @@ message.channel.send(tchembed);//techno
 })//techno
 const request = require('request')//techno
 setInterval(async () => {//techno
-var tch = `https://www.technoapi.tk/api/${apikey}/mcsunucu/${ip}`//techno
+var tch = `https://mcapi.xdefcon.com/server/${ip}/full/json`//techno
 request(tch, function (err, response, body) {//techno
 if (err) {//techno
 console.log(err);//techno
