@@ -3,8 +3,6 @@
 
 ``TECHNO.JSONDAKİ YERLERLİ DOLDURUNUN BU SAYEDE BOTUNUZ HATA VERMEZ!!!``
 
-``APİ KEY ALMAK İÇİN TECHNO CODE DİSCORD SUNUCUNUSA GİDEBİLİRSİNİZ! WWW.TECHNOAPİ.TK DAN GEREKLİ BİLGİLERİ ÖĞRENEBİLİRSİNİZ!``
-
 **DİSCORD SUNUCUMUZ**: https://discord.gg/5n6KQGh
 
 ``eğer aternos sunucunuz varsa https://www.youtube.com/watch?v=kK7_R7mTV14 videosunu izleyebilirsiniz. bu sayede sunucunuzu 7/24 yapabilirsiniz``
