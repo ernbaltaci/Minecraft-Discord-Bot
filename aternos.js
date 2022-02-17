@@ -79,6 +79,7 @@ function bindEvents(bot) {
      
   console.log('Bot tekrardan oyuna giriş yaptı!');
   bot.chat(`/login ${kayit.sifre}`);
+Ret
 });
     
         bindEvents(bot);
